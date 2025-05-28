@@ -31,7 +31,7 @@
 
 ​	第一次打开MiXin的界面，点击创建帐户。
 
-![IMG_0001](../../Documents/Typora/Photo/IMG_0001.PNG)
+![IMG_0001](./assets/IMG_0001.PNG)
 
 ​	点击之后会有两个选项。第一个选项，是通过手机号进行创建。第二个选项是通过助记词。	
 
@@ -39,23 +39,23 @@
 
 ​	建议新手，使用第一个选项通过手机号码。
 
-![IMG_0002](../../Documents/Typora/Photo/IMG_0002.PNG)
+![IMG_0002](./assets/IMG_0002.PNG)
 
 ​	输入手机号码，获取验证码。
 
-![IMG_0003](../../Documents/Typora/Photo/IMG_0003.PNG)
+![IMG_0003](./assets/IMG_0003.PNG)
 
 ​	输入你的昵称，随便输入都可以
 
-![IMG_0005](../../Documents/Typora/Photo/IMG_0005.PNG)
+![IMG_0005](./assets/IMG_0005.PNG)
 
 ​	PIN码极其重要！！！！ 这是你的钱包钥匙，你的登录凭证，一定要记住，忘记了，就没办法了。
 
 ​	题外话：现在mixin有服务，可以恢复。具体需要了解一下。
 
-![IMG_0006](../../Documents/Typora/Photo/IMG_0006.PNG)
+![IMG_0006](./assets/IMG_0006.PNG)
 
-<img src="../../Documents/Typora/Photo/IMG_0007.PNG" alt="IMG_0007" style="zoom:25%;" /><img src="../../Documents/Typora/Photo/IMG_0008-8411377.PNG" alt="IMG_0008" style="zoom:25%;" />
+<img src="./assets/IMG_0007.PNG" alt="IMG_0007" style="zoom:25%;" /><img src="./assets/IMG_0008-8411377.PNG" alt="IMG_0008" style="zoom:25%;" />
 
 ​	多输入几次，确保自己记住整个密码！！！！！很重要！！！！
 
@@ -73,11 +73,11 @@ mixin官方客服号：7000
 
 ​	下方有四个标签，第一个聊天，也就是你曾经沟通过的联系人都在这里，跟微信一样。
 
-![IMG_0024](../../Documents/Typora/Photo/IMG_0024.PNG)
+![IMG_0024](./assets/IMG_0024.PNG)
 
 第二个钱包，是你购买数字货币显示的界面。
 
-![IMG_0025](../../Documents/Typora/Photo/IMG_0025.PNG)
+![IMG_0025](./assets/IMG_0025.PNG)
 
 第三个藏品，不过多深入了解。
 
@@ -85,25 +85,25 @@ mixin官方客服号：7000
 
 左上角有两个选项，机器人就是你添加过的机器人，可以是大群，也可以是个人。
 
-![IMG_0026](../../Documents/Typora/Photo/IMG_0026.PNG)
+![IMG_0026](./assets/IMG_0026.PNG)
 
 行情：可以看各个币的走势，以及当前价格。
 
-![IMG_0027](../../Documents/Typora/Photo/IMG_0027.PNG)
+![IMG_0027](./assets/IMG_0027.PNG)
 
 ### 机器人内部结构
 
 ​	点击机器人进入后，可在对话框输入内容，发送对方收到发送的消息记录会显示蓝色双钩。
 
-![IMG_0034](../../Documents/Typora/Photo/IMG_0034.PNG)
+![IMG_0034](./assets/IMG_0034.PNG)
 
 向前翻显示历史聊天记录
 
-![IMG_0028](../../Documents/Typora/Photo/IMG_0028.PNG)
+![IMG_0028](./assets/IMG_0028.PNG)
 
 点击猪鼻子，跳转机器人的内部页面。这个是重要的功能。
 
-![IMG_0029](../../Documents/Typora/Photo/IMG_0029.PNG)
+![IMG_0029](./assets/IMG_0029.PNG)
 
 点击右上角图标，也会有部份功能。可自行摸索
 
@@ -129,6 +129,6 @@ Mixin Route 7000105155
 
 在顶部搜索🔍按钮中输入对方的ID。即可查找到对方。
 
-![IMG_0010](../../Documents/Typora/Photo/IMG_0010.PNG)
+![IMG_0010](./assets/IMG_0010.PNG)
 
 找到对方后，即可发送消息对方聊天![IMG_0010](./assets/IMG_0010.PNG)
